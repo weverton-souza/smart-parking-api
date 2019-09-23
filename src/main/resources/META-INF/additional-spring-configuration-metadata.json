@@ -1,0 +1,21 @@
+{
+  "groups": [
+  ],
+  "properties": [
+    {
+      "name": "smartparking.jwt.secret",
+      "type": "java.lang.String",
+      "description": "Description for smartparking.jwt.secret."
+    },
+    {
+      "name": "smartparking.jwt.expiration",
+      "type": "java.lang.String",
+      "description": "Description for smartparking.jwt.expiration."
+    },
+    {
+      "name": "spring.database.driverClassName",
+      "type": "java.lang.String",
+      "description": "Description for spring.database.driverClassName."
+    }
+  ]
+}
